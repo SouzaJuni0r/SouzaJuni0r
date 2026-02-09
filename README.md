@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Edmilson Junior!</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Interested in the data field</h3>
 
-🤖***Discipline is the motivation needed every day***
+- 💻 I'm an Actuarial Science and Statistics student at UFRJ, interested in the data field.
 
-- 💻 Currently studying Data Science with **Python**/**BI**
-
-- 🧮  Libraries: Numpy, Scipy, Matplotlib, Pandas, Tkinter, Pyautogui, Openpyxl.
+- 📊 My projects focus on organizing, analyzing, and visualizing data using Python, SQL, Excel and PowerBI in practical contexts.
 
 - 📫 You can reach me at **SouzaJrr0@gmail.com**
 
